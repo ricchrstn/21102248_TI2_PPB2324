@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:navigation_router/second_page.dart';
 
 class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+  // ignore: use_super_parameters
+  const HomePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
