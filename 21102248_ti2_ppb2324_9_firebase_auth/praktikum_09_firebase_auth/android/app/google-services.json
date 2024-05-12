@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291229177043",
+    "project_id": "fir-auth-2248-09",
+    "storage_bucket": "fir-auth-2248-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291229177043:android:68dce868e6ee4a2890b026",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXiZ8cLYqujFPU2L6-sCZrymnhNDMhlY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291229177043:android:fd011c76826f030590b026",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_09_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXiZ8cLYqujFPU2L6-sCZrymnhNDMhlY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
